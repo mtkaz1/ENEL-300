@@ -1,0 +1,4 @@
+../Core/Src/sensor_display.c:21:13:delay_us	24	static
+../Core/Src/sensor_display.c:29:14:HCSR04_Read	16	static
+../Core/Src/sensor_display.c:51:6:SensorDisplay_Init	8	static
+../Core/Src/sensor_display.c:65:6:SensorDisplay_Update	24	static
