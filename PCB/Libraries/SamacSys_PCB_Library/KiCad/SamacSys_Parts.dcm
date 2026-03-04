@@ -1,0 +1,171 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP NE555DR
+D Single Precision Timer
+K
+F http://www.ti.com/lit/ds/symlink/ne555.pdf
+$ENDCMP
+#
+$CMP DRV8231ADDAR
+D Motor Drives 33V H bridge motor driver with current regulation and current sense feedback
+K
+F https://www.ti.com/lit/ds/symlink/drv8231a.pdf?ts=1647897918552&ref_url=https%253A%252F%252Fwww.ti.com%252Fstore%252Fti%252Fen%252Fp%252Fproduct%252F%253Fp%253DDRV8231ADDAR%2526keyMatch%253DDRV8231ADDAR%2526tisearch%253Dsearch-everything%2526usecase%253DO
+$ENDCMP
+#
+$CMP 691137710002
+D WR-TBL Terminal block - Wire protector - THT MRT12P5/2VE Serie 1377 - 5,0mm pitch - Monoblock THT - Green - Horizontal cable entry Wire Protector 11.5mm height - 02p
+K
+F https://www.we-online.com/components/products/download/691137710002+%28rev1%29.pdf
+$ENDCMP
+#
+$CMP CL05A104KA5NNNC
+D Samsung Electro-Mechanics 0402 CL 100nF Ceramic Multilayer Capacitor, 25 V, +85C, X5R Dielectric, +/-10% SMD
+K
+F https://datasheet.datasheetarchive.com/originals/distributors/Datasheets-DGA10/2409293.pdf
+$ENDCMP
+#
+$CMP C0603C104K3RACTU
+D SMD Comm X7R, Ceramic, 0.1 uF, 10%, 25 VDC, 62.5 VDC, 125C, -55C, X7R, SMD, MLCC, Temperature Stable, Class II, 3.5 % , 5 GOhms, 7.3 mg, 0603, 1.6mm, 0.8mm, 0.8mm, 0.7mm, 0.35mm, 4000, 78  Weeks, 80
+K
+F https://content.kemet.com/datasheets/KEM_C1002_X7R_SMD.pdf
+$ENDCMP
+#
+$CMP A768EB476M1ELAE042
+D A768, Aluminum, Polymer Aluminum, 47 uF, 20%, 25 VDC, -55/+125C, 125C, -55C, 125C, 2,000 Hrs, 42 mOhms, 235 uA, 6.3mm, 5.7mm, 1000
+K
+F https://content.kemet.com/datasheets/KEM_A4088_A768.pdf
+$ENDCMP
+#
+$CMP 61300211821
+D WR-PHD 2.54 mm Socket Header; 2 pins 1 row, straight, gold plating
+K
+F https://www.we-online.com/components/products/download/1+%28rev1%29.pdf
+$ENDCMP
+#
+$CMP SSW-119-01-T-D
+D 38 Position Receptacle Connector 0.100" (2.54mm) Through Hole Tin
+K
+F https://suddendocs.samtec.com/catalog_english/ssw_th.pdf
+$ENDCMP
+#
+$CMP ERJ-3EKF7320V
+D Precision Thick Film Chip Resistor, 0603, 0.1W
+K
+F http://industrial.panasonic.com/cdbs/www-data/pdf/RDA0000/AOA0000C86.pdf
+$ENDCMP
+#
+$CMP CL10B103KB8NNNC
+D Samsung Electro-Mechanics 0603 CL 10nF Ceramic Multilayer Capacitor, 50 V, +125C, X7R Dielectric, +/-10% SMD
+K
+F https://product.samsungsem.com/mlcc/CL10B103KB8NNN.do
+$ENDCMP
+#
+$CMP RC0603JR-070RL
+D YAGEO (PHYCOMP) - RC0603JR-070RL - RES, THICK FILM, 0R, 5%, 0.1W, 0603
+K
+F http://www.yageo.com/documents/recent/PYu-RC0603_51_RoHS_L_v5.pdf
+$ENDCMP
+#
+$CMP CL10B105KA8NNNC
+D Samsung Electro-Mechanics 0603 CL 1uF Ceramic Multilayer Capacitor, 25 V, +125C, X7R Dielectric, +/-10% SMD
+K
+F https://datasheet.datasheetarchive.com/originals/distributors/Datasheets-DGA10/2410489.pdf
+$ENDCMP
+#
+$CMP AP63205WU-7
+D Buck Switching Regulator IC Positive Fixed 5V 1 Output 2A SOT-23-6 Thin, TSOT-23-6 
+K
+F https://www.diodes.com//assets/Datasheets/AP63200-AP63201-AP63203-AP63205.pdf
+$ENDCMP
+#
+$CMP CL31B106KBHNNNE
+D Samsung
+K
+F https://datasheet.datasheetarchive.com/originals/distributors/DKDS-19/375194.pdf
+$ENDCMP
+#
+$CMP CL32B226KOJNNNE
+D Multilayer Ceramic Capacitors MLCC - SMD/SMT 22uF+/-10% 16V X7R 3225
+K
+F https://www.tme.eu/Document/4a42202b32dab16128fe107dd69598cc/samsung-chip-cap.pdf
+$ENDCMP
+#
+$CMP IFSC2020DEER4R7M01
+D 4.7 H Shielded Wirewound Inductor 3 A 31mOhm Max 2424 (6060 Metric)
+K
+F https://www.vishay.com/docs/34083/ifsc-2020de-01.pdf
+$ENDCMP
+#
+$CMP C0603C104K5RACTU
+D SMD Comm X7R, Ceramic, 0.1 uF, 10%, 50 VDC, 125 VDC, 125C, -55C, X7R, SMD, MLCC, Temperature Stable, Class II, 2.5 % , 5 GOhms, 7.3 mg, 0603, 1.6mm, 0.8mm, 0.8mm, 0.7mm, 0.35mm, 4000, 78  Weeks, 80
+K
+F https://content.kemet.com/datasheets/KEM_C1002_X7R_SMD.pdf
+$ENDCMP
+#
+$CMP FDS4435BZ
+D High performance trench technology for extremely low rDS(on); Max rDS(on) = 35m at VGS = 4.5V, ID = 6.7A; High power and current handling capability ; Termination is Leadfree and RoHS compliant; Max rDS(on) = 20m at VGS = 10V, ID = 8.8A; HBM ESD protection level of +/-3.8KV typical (note 3) ; Extended VGSS range (25V) for battery applications
+K
+F https://www.onsemi.com/pub/Collateral/FDS4435BZ-D.PDF
+$ENDCMP
+#
+$CMP MMSZ5231B-7-F
+D Zener Diode 5.1V 5% 500mW SOD123 Diodes Inc MMSZ5231B-7-F Zener Diode, 5.1V 5% 0.5 W SMT 2-Pin SOD-123
+K
+F https://www.diodes.com//assets/Datasheets/ds18010.pdf
+$ENDCMP
+#
+$CMP RC0603FR-0710KL
+D Yageo RC Series Thick Film Surface Mount Resistor 0603 Case 10k
+K
+F http://www.yageo.com/documents/recent/PYu-RC0603_51_RoHS_L_v5.pdf
+$ENDCMP
+#
+$CMP LTST-C190KRKT
+D LED,SMD,0603,Red,54mcd,130deg Lite-On LTST-C190KRKT Red LED, 631 nm, 1608 (0603), Rectangle Lens SMD Package
+K
+F https://componentsearchengine.com/Datasheets/1/LTST-C190KRKT.pdf
+$ENDCMP
+#
+$CMP ERJ3GEYJ301V
+D SMD Thick film resistor 0603 300R (Reel) Panasonic ERJ3G Series Thick Film Surface Mount Fixed Resistor 0603 Case +/-5% 0.1W +/-200ppm/C
+K
+F http://docs-europe.electrocomponents.com/webdocs/13ba/0900766b813ba21b.pdf
+$ENDCMP
+#
+$CMP 5019
+D Circuit Board Hardware - PCB TEST POINT
+K
+F https://www.keyelco.com/product-pdf.cfm?p=1357
+$ENDCMP
+#
+$CMP SMBJ15CA-Q
+D SMBJ-Q Transient Voltage Suppressor Diode Series, Bi-Directional
+K
+F https://www.bourns.com/docs/Product-Datasheets/SMBJ-Q.pdf
+$ENDCMP
+#
+$CMP DRV8251ADDAR
+D Motor Drives 48-V, 3.5-A H bridge motor driver with current regulation and current sense feedback
+K
+F https://www.arrow.com/en/products/drv8251addar/texas-instruments?region=nac
+$ENDCMP
+#
+$CMP LTST-C191KGKT
+D LED,SMD,0603,Green,35mcd,130deg Lite-On LTST-C191KGKT Green LED, 571 nm 1608 (0603), Rectangle Lens SMD package
+K
+F http://www.mouser.com/ds/2/239/S_110_LTST-C191KGKT-369560.pdf
+$ENDCMP
+#
+$CMP ERJ-PA3F1101V
+D Panasonic ERJPA3 Series Thick Film Surface Mount Resistor 0603 Case 1.1k +/-1% 0.25W +/-100ppm/C
+K
+F https://industrial.panasonic.com/cdbs/www-data/pdf/RDO0000/AOA0000C331.pdf
+$ENDCMP
+#
+$CMP CPF0603F750RC1
+D Configuration Features: Number of Resistors 1 | Dimensions: Product Height .45 MM | Product Height .018 INCH | Product Length .061 INCH | Product Width .8 MM | Product Width .031 INCH | Product Length 1.55 MM | Electrical Characteristics: Power Rating .063 WATT | Passive Component Tolerance 1 PCT | Resistance Class Up to 1k | Operating Voltage 50 V | Resistance Value 750 OHM | Packaging Features: Packaging Method Taped & Reeled | Product Type Features: Element Type Thin Film | Package Size Code 0603 | Res
+K
+F http://www.farnell.com/datasheets/1786775.pdf
+$ENDCMP
+#
+#End Doc Library
